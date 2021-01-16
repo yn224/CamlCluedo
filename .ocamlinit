@@ -1,0 +1,13 @@
+#directory "_build";;
+#require "yojson";;
+#require "ANSITerminal";;
+#require "bisect_ppx.runtime";;
+#load_rec "dice.cmo";;
+#load_rec "cards.cmo";;
+#load_rec "command.cmo";;
+#load_rec "cpu.cmo";;
+#load_rec "graph.cmo";;
+#load_rec "player.cmo";;
+#load_rec "printer.cmo";;
+#load_rec "queue.cmo";;
+#load_rec "user.cmo";;
